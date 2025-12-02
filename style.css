@@ -57,10 +57,10 @@ h1 {
 span {
     color: #000;
     font-family: "Caesar Dressing", cursive;
-    font-size: 10em;
+    font-size: 1em;
     text-transform: lowercase;
     vertical-align: middle;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.9em;
 }
 
 .happy {
