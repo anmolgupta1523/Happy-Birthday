@@ -57,7 +57,7 @@ h1 {
 span {
     color: #000;
     font-family: "Caesar Dressing", cursive;
-    font-size: 3em;
+    font-size: 10em;
     text-transform: lowercase;
     vertical-align: middle;
     letter-spacing: 0.2em;
@@ -65,8 +65,8 @@ span {
 
 .happy {
     position: absolute;
-    top: 10%;
-    left: 30%;
+    top: 60%;
+    left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0;
     animation: fade-in 5s forwards;
